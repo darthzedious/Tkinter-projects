@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "title": "angel3",
+            "author": "angel",
+            "year": 1999,
+            "genre": "try",
+            "pages": "10"
+        },
+        {
+            "title": "2",
+            "author": "2",
+            "year": 2006,
+            "genre": "try",
+            "pages": "30"
+        },
+        {
+            "title": "Kniga za Djunglata",
+            "author": "nqkoi",
+            "year": "1999",
+            "genre": "fantasy",
+            "pages": "120"
+        }
+    ],
+    "games": [
+        {
+            "title": "League of Legends",
+            "developer": "Riot Games",
+            "year": 2010,
+            "multiplayer": "yrs"
+        },
+        {
+            "title": "Clash of Clans",
+            "developer": "Supercell",
+            "year": "2012",
+            "multiplayer": "yes"
+        }
+    ],
+    "movies": [
+        {
+            "title": "Star Wars lll",
+            "director": "George Lucas",
+            "year": "2005",
+            "rating": "10"
+        },
+        {
+            "title": "Ergenat",
+            "director": "Niki Nikolov",
+            "year": 2025,
+            "rating": "10"
+        }
+    ]
+}
